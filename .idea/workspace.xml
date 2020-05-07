@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="592a58ba-c37d-47a2-a651-2b6c0a3d438e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1bZtIbCX0DC1v6n8Esi5IKJ0YmM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/players" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\coding_challenge\BridgePattern\players" />
+      <recent name="D:\www\coding_challenge\BridgePattern\musicSources" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="592a58ba-c37d-47a2-a651-2b6c0a3d438e" name="Default Changelist" comment="" />
+      <created>1588851364158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588851364158</updated>
+      <workItem from="1588851365417" duration="1908000" />
+      <workItem from="1588853347804" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1588852512174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588852512174" />
+    <state x="858" y="173" key="NewPhpClassDialog" timestamp="1588853379911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="858" y="173" key="NewPhpClassDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588853379911" />
+    <state x="604" y="337" key="NewPhpFileDialog" timestamp="1588851373385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="337" key="NewPhpFileDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588851373385" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1588851856456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1588851856456" />
+  </component>
+</project>
